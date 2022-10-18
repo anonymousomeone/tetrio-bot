@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "puppeteer": "^19.0.0",
+    "robotjs": "^0.6.0",
+    "user-agents": "^1.0.1171"
+  }
+}
