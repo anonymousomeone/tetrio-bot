@@ -1,6 +1,9 @@
 {
   "dependencies": {
+    "pixcolor": "^1.0.0",
     "puppeteer": "^19.0.0",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-adblocker": "^2.13.5",
     "robotjs": "^0.6.0",
     "user-agents": "^1.0.1171"
   }
